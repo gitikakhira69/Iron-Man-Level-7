@@ -184,6 +184,6 @@ function restartGame(){
   stoneGroup.destroyEach();
   diamondScore=0;
   iron.x = 200;
-  iron.y = 200;
+  iron.y = 300;
   restart.visible = false;
 }
